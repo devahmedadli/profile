@@ -9,15 +9,15 @@
    <a href="https://youtube.com/helloworld" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ahmednasseradli" /></a>
 </div>
 
-- 🔭 I’m currently working on **Khamsat Clone**
+- 🔭 I’m currently working on **Khamsat Competitor**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmednasseradli](https://github.com/ahmednasseradli)
+- 👨‍💻 All of my projects are available at [https://github.com/devahmedadli](https://github.com/devahmedadli)
 
-- 📝 I regularly write articles on [https://elmasader.com/](https://elmasader.com/)
+- 📝 My personal website : **ahmedadli.com**
 
 - 💬 Ask me about **PHP, Laravel**
 
-- 📫 How to reach me **ahmednasseradli@gmail.com**
+- 📫 How to reach me **devahmedadli@gmail.com**
 
 - ⚡ Fun fact **I'm artist**
 
